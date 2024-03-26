@@ -8,7 +8,7 @@
 - 복숭아
 - 수박
 
-이 링크는 [구글](https;//google.com) 페이지로 이동합니다.
+이 링크는 [구글](https://google.com) 페이지로 이동합니다.
 
 ![이미지](https://picsum.photos/300)
 
